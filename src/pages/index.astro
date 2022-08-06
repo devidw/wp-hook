@@ -1,15 +1,9 @@
 ---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import WpHookGenerator from '../components/WpHookGenerator.svelte'
+import '../styles/index.styl'
 ---
 
-<html lang="en">
-
-<head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width" />
-	<title>Astro</title>
-</head>
-
-<body>
-</body>
-
-</html>
+<BaseLayout>
+    <WpHookGenerator client:load />
+</BaseLayout>

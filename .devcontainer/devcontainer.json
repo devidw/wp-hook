@@ -19,7 +19,10 @@
 			"extensions": [
 				"dbaeumer.vscode-eslint",
 				"astro-build.astro-vscode",
-				"GitHub.copilot"
+				"GitHub.copilot",
+				"sysoev.language-stylus",
+				"svelte.svelte-vscode",
+				"asciidoctor.asciidoctor-vscode"
 			]
 		}
 	},
