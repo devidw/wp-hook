@@ -60,3 +60,9 @@ add_${actionOrFilter}(
     </section>
   </div>
 </main>
+
+<style lang="stylus">
+main > div {
+  min-width 360px
+}
+</style>

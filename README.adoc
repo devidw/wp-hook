@@ -2,4 +2,4 @@
 
 Generate WordPress `add_action` and `add_filter` hooks on the fly.
 
-image::preview.png[]
+image::preview.png[link='https://wp-hook.netlify.app']
