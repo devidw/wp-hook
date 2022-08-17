@@ -15,8 +15,8 @@
 add_${actionOrFilter}(
     hook_name: "${hookName}",
     priority: PHP_INT_MAX,
-    accepted_args: 1,
-    callback: function() {
+    accepted_args: 0,
+    callback: function () {
         // ...
     }
 );`
