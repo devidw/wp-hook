@@ -18,7 +18,6 @@
   },
   "dependencies": {
     "@beyonk/svelte-notifications": "^4.2.0",
-    "aframe": "^1.3.0",
     "copy-to-clipboard": "^3.3.2",
     "highlight.js": "^11.6.0",
     "stylus": "^0.58.1"
